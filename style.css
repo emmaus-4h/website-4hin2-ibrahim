@@ -120,8 +120,35 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: #41908b;
+    background-color: #ff6b6b;
 }
+
 #ibra {
-  color: red;
+  color: red;  
 }
+  
+#bono {
+float: right;
+height: 200px;
+border: 5px;
+  border-color: black;
+}
+#thijs {
+float: right;
+width: 200px;
+}
+.item-plaatje {
+  height: 300px;
+  border: 5px;
+  
+}
+
+#marokko {
+color: black;
+  
+}
+
+#begin {
+  color: black;
+}
+
